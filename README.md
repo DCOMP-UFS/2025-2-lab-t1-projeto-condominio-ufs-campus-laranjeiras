@@ -2,7 +2,7 @@
 
 Este documento apresenta a infraestrutura técnica e o planejamento de redes dos cinco laboratórios integrados ao Condomínio de Laboratórios de Campus Laranjeiras. A solução foi projetada para garantir alta disponibilidade, segurança perimetral e integração via nuvem para suporte à pesquisa acadêmica avançada e preservação patrimonial.
 
-**Acesso ao Condomínio (Portal Integrado):** 
+**Acesso ao Condomínio (Portal Integrado): [http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8080/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8080/)** 
 
 ---
 
@@ -14,7 +14,7 @@ Implementação de rede resiliente focada em geoprocessamento (GIS) e catalogaç
 * **Integração e Nuvem:** Migração do processamento pesado e do portal Urbes Invisibilia para infraestrutura AWS (Docker). A conectividade inter-campus é assegurada por um túnel VPN Site-to-Site.
 * **Infraestrutura Local:** Armazenamento NAS para alta disponibilidade de arquivos cartográficos e Access Points Wi-Fi 6 para mobilidade no acervo.
 * **Investimento Estimado:** R$ 50.000,00.
-* **Link AWS:** 
+* **Link AWS: [http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8083/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8083/)** 
 
 ## 2. CEPUR - Planejamento e Práticas Urbanas e Regionais
 **Descrição Técnica:**
@@ -24,7 +24,7 @@ Infraestrutura de alta performance desenhada para manipulação de grandes volum
 * **Gerenciamento:** Roteador VPN ER7212PC atuando como controladora central e gateway, permitindo acesso remoto seguro aos pesquisadores.
 * **Continuidade Operacional:** Proteção elétrica via No-break Senoidal Puro de 2200VA, garantindo a integridade de equipamentos com fontes de PFC ativo.
 * **Investimento Estimado:** R$ 19.500,00.
-* **Link AWS:** 
+* **Link AWS:[http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8085/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8085/)** 
 
 ## 3. Tecnologias em Arquitetura e Urbanismo
 **Descrição Técnica:**
@@ -33,7 +33,7 @@ Planejamento focado no suporte a fluxos de trabalho de modelagem 3D (BIM), nuven
 * **Performance de Processamento:** Integração ao condomínio de laboratórios para execução de renderizações de alto desempenho em ambiente de nuvem, reduzindo a carga do hardware local.
 * **Resiliência e Backup:** Estratégia de redundância para o acervo digital de projetos como EMAU TRAPICHE e Cidade MIL através da infraestrutura central da UFS.
 * **Conectividade:** Otimização de banda para tráfego de arquivos pesados de escaneamento a laser e fotogrametria.
-* **Link AWS:** 
+* **Link AWS:[http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8084/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8084/)** 
 
 ## 4. Arqueologia e Bioarqueologia: Patrimônio Cultural e Ambiental
 **Descrição Técnica:**
@@ -42,7 +42,7 @@ Modernização voltada ao suporte de dados massivos de escavações e análises 
 * **Isolamento de Dados:** Utilização de VLANs para garantir a confidencialidade e integridade do banco de dados de patrimônio histórico sensível.
 * **Monitoramento IoT:** Infraestrutura preparada para sensores de monitoramento ambiental remoto (temperatura e umidade) aplicados à conservação da reserva técnica.
 * **Arquitetura:** Rede projetada para suportar alta demanda de processamento de imagens e registros catalográficos digitais.
-* **Link AWS:** 
+* **Link AWS: [http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8081/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8081/)** 
 
 ## 5. Gemps - Memória e Patrimônio Sergipano
 **Descrição Técnica:**
@@ -52,7 +52,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 * **Segurança de Borda:** Gateway VPN Multi-Gigabit ER7412-M2 para estabelecimento de túneis criptografados e proteção de banco de dados.
 * **Conectividade Sem Fio:** 8 Access Points EAP265 HD estrategicamente distribuídos para cobertura estável de alta densidade.
 * **Investimento Estimado:** R$ 35.844,86.
-* **Link AWS:** 
+* **Link AWS: [http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8082/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8082/)** 
 
 ---
 
@@ -66,4 +66,5 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
 
