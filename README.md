@@ -1,6 +1,6 @@
-# Projeto de Redes: Condomínio de Laboratórios - CCSA
+# Projeto de Redes: Condomínio de Laboratórios - Campus Laranjeiras
 
-Este documento apresenta a infraestrutura técnica e o planejamento de redes dos cinco laboratórios integrados ao Condomínio de Laboratórios do CCSA. A solução foi projetada para garantir alta disponibilidade, segurança perimetral e integração via nuvem para suporte à pesquisa acadêmica avançada e preservação patrimonial.
+Este documento apresenta a infraestrutura técnica e o planejamento de redes dos cinco laboratórios integrados ao Condomínio de Laboratórios de Campus Laranjeiras. A solução foi projetada para garantir alta disponibilidade, segurança perimetral e integração via nuvem para suporte à pesquisa acadêmica avançada e preservação patrimonial.
 
 **Acesso ao Condomínio (Portal Integrado):** 
 
@@ -66,3 +66,4 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
