@@ -1,4 +1,4 @@
-# Projeto de Redes: Condomínio de Laboratórios - Campus Laranjeiras
+<img width="1251" height="514" alt="image" src="https://github.com/user-attachments/assets/ae6851f0-851d-422a-9b61-a7d0cc323c48" /># Projeto de Redes: Condomínio de Laboratórios - Campus Laranjeiras
 
 Este documento apresenta a infraestrutura técnica e o planejamento de redes dos cinco laboratórios integrados ao Condomínio de Laboratórios de Campus Laranjeiras. A solução foi projetada para garantir alta disponibilidade, segurança perimetral e integração via nuvem para suporte à pesquisa acadêmica avançada e preservação patrimonial.
 
@@ -24,7 +24,7 @@ Infraestrutura de alta performance desenhada para manipulação de grandes volum
 * **Gerenciamento:** Roteador VPN ER7212PC atuando como controladora central e gateway, permitindo acesso remoto seguro aos pesquisadores.
 * **Continuidade Operacional:** Proteção elétrica via No-break Senoidal Puro de 2200VA, garantindo a integridade de equipamentos com fontes de PFC ativo.
 * **Investimento Estimado:** R$ 19.500,00.
-* **Link AWS:[http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8085/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8085/)** 
+* **Link AWS:[100.53.139.17)** 
 
 ## 3. Tecnologias em Arquitetura e Urbanismo
 **Descrição Técnica:**
@@ -66,6 +66,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
 
 
 
