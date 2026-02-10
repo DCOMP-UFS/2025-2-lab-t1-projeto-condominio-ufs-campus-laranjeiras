@@ -10,12 +10,12 @@ Este documento apresenta a infraestrutura técnica e o planejamento de redes dos
 **Descrição Técnica:**
 Implementação de rede resiliente focada em geoprocessamento (GIS) e catalogação digital. A arquitetura utiliza uma topologia em estrela hierárquica centralizada em um Gateway de Segurança Integrado (UDM Pro), que consolida as funções de roteador de borda, firewall e controlador de rede.
 
-* **Gateway de Segurança:** 01 Unidade UDM Pro (Firewall, Roteador e Controladora).
-* **Armazenamento:** 02 Unidades NAS (2-Bay) com discos Enterprise para redundância local.
-* **Rede Sem Fio:** 04 Access Points Wi-Fi 6 (U6-Lite) para cobertura total do acervo.
-* **Infraestrutura:** 01 Rack 6U, Patch Panel e Kit de organização de cabos.
-
-**Subtotal:** R$ 57.057,35
+**Perfil:** Central de processamento e segurança de dados.
+* **Hardware de Rede:** 01 Gateway (Ata 09341233), 01 Switch Gerenciável, 02 Access Points.
+* **Mobiliário:** 06 Mesas, 06 Cadeiras, 01 Armário.
+* **Infraestrutura:** 01 Rack, 01 No-break 1200Va, Cabeamento Cat6.
+* **Computação:** 02 Workstations de alto desempenho.
+* **Investimento Estimado:** **R$ 72.450,00**
 
 * **Link AWS: [http://54.243.16.146](http://54.243.16.146/)** 
 
@@ -23,12 +23,12 @@ Implementação de rede resiliente focada em geoprocessamento (GIS) e catalogaç
 **Descrição Técnica:**
 Infraestrutura de alta performance desenhada para manipulação de grandes volumes de dados (QGIS e imagens de satélite) utilizando a linha corporativa TP-Link Omada para gerenciamento centralizado.
 
-* **Switching:** 01 Switch Core Gerenciável SG5452XMPP (48 portas PoE++, 10Gbps Uplink).
-* **Roteamento:** 01 Roteador VPN Corporativo ER7212PC Omada.
-* **Energia:** 02 No-breaks Senoidais Puros 2200VA (Proteção para fontes PFC Ativo).
-* **Conectividade:** Kit de Transceivers SFP+ e cabos ópticos para backbone de dados.
-
-**Subtotal:** R$ 57.057,35
+**Perfil:** Análise de dados e planejamento regional.
+* **Hardware de Rede:** 01 Firewall, 01 Switch Gerenciável, 02 Access Points.
+* **Mobiliário:** 10 Mesas, 10 Cadeiras, 02 Armários.
+* **Climatização:** 01 Ar-condicionado.
+* **Computação:** 04 Computadores padrão.
+* **Investimento Estimado:** **R$ 48.200,00**
 
 * **Link AWS: [http://100.53.139.17)** 
 
@@ -36,12 +36,12 @@ Infraestrutura de alta performance desenhada para manipulação de grandes volum
 **Descrição Técnica:**
 Planejamento focado no suporte a fluxos de trabalho de modelagem 3D (BIM), nuvens de pontos e geoprocessamento para projetos de preservação do patrimônio histórico.
 
-* **Switching:** 02 Switches Gerenciáveis 24 portas PoE+ (Distribuição para ilhas de modelagem).
-* **Rede Sem Fio:** 03 Access Points Wi-Fi 6 High Range (U6-LR) para nuvens de pontos.
-* **Cabeamento:** Bobina de cabo Cat6 blindado e conectores RJ45 blindados para 24 pontos.
-* **Armazenamento:** 01 Unidade NAS dedicada para backup de curta duração (Hot Storage).
-
-**Subtotal:** R$ 57.057,35
+**Perfil:** Modelagem BIM e digitalização 3D.
+* **Hardware de Rede:** 01 Switch PoE, 03 Access Points, Fibra Óptica para interconexão.
+* **Mobiliário:** 12 Mesas, 12 Cadeiras, 02 Armários.
+* **Computação:** 03 Workstations, 01 Monitor adicional para render.
+* **Periféricos:** 01 Impressora técnica.
+* **Investimento Estimado:** **R$ 52.136,76**
 
 * **Link AWS:[http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:80/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:80)
 * /)** 
@@ -50,12 +50,12 @@ Planejamento focado no suporte a fluxos de trabalho de modelagem 3D (BIM), nuven
 **Descrição Técnica:**
 Modernização voltada ao suporte de dados massivos de escavações e análises bioantropológicas, integrando segurança lógica e monitoramento de ativos físicos.
 
-* **Switching:** 02 Switches Gerenciáveis 16 portas PoE (Segurança lógica via VLANs).
-* **IoT/Monitoramento:** Kit de Sensores de Temperatura e Umidade com Gateway dedicado.
-* **Vigilância:** 06 Câmeras IP Full HD para monitoramento da reserva técnica.
-* **Armazenamento:** 01 Unidade NAS de Alta Disponibilidade para registros bioantropológicos.
-
-**Subtotal:** R$ 57.057,35
+**Perfil:** Conservação e análise técnica de materiais.
+* **Hardware de Rede:** 01 Switch, 02 Access Points.
+* **Equipamento Técnico:** 01 Microscópio (Ata específica), 01 Balança de precisão.
+* **Mobiliário:** 08 Mesas, 08 Cadeiras, 02 Armários para reserva técnica.
+* **Climatização:** 01 Ar-condicionado (Essencial para conservação).
+* **Investimento Estimado:** **R$ 44.500,00*
 
 * **Link AWS: [http://52.200.222.233/](http://52.200.222.233/)** 
 
@@ -63,27 +63,29 @@ Modernização voltada ao suporte de dados massivos de escavações e análises 
 **Descrição Técnica:**
 Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimensionada para preservação e digitalização de acervos multimídia de grande volume.
 
-* **Switching:** 01 Switch Layer 3 Gerenciável SG6654XHP (Backbone de alta performance).
-* **Roteamento:** 01 Gateway VPN Multi-Gigabit ER7412-M2.
-* **Rede Sem Fio:** 06 Access Points EAP265 HD (Alta densidade de usuários simultâneos).
-* **Armazenamento:** 01 Unidade NAS de 4 baias para acervo multimídia bruto.
-
-**Subtotal:** R$ 57.057,36
+**Perfil:** Preservação multimídia e acervo digital massivo.
+* **Hardware de Rede:** 01 Firewall, 01 Gateway de alta performance, 05 Access Points.
+* **Mobiliário:** 15 Mesas, 15 Cadeiras, 02 Armários.
+* **Computação:** 05 Computadores, 01 Unidade de Armazenamento (NAS) para acervo.
+* **Investimento Estimado:** **R$ 68.000,00**
 
 * **Link AWS: [http://3.234.144.119/]** 
 
 ---
 
-### Resumo Executivo da Infraestrutura
-| Item | Especificação Padronizada |
-| :--- | :--- |
-| **Topologia** | Estrela Hierárquica com Segmentação por VLANs |
-| **Tecnologia Wireless** | Wi-Fi 6 / Access Points de Alta Densidade |
-| **Segurança** | Firewalls de Borda e VPNs Site-to-Site (AES-256) |
-| **Capacidade de Uplink** | 10 Gbps SFP+ (Fibra Óptica) |
-| **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
+### Resumo da Distribuição Orçamentária
+
+| Laboratório | Vocação Principal | Valor (R$) |
+| :--- | :--- | :--- |
+| **AMA** | Núcleo de Segurança e Dados | R$ 72.450,00 |
+| **CEPUR** | Planejamento Urbano | R$ 48.200,00 |
+| **TAU** | Modelagem e BIM | R$ 52.136,76 |
+| **Arqueologia** | Bioarqueologia e Conservação | R$ 44.500,00 |
+| **GEMPS** | Acervo e Memória | R$ 68.000,00 |
+| **TOTAL** | | **R$ 285.286,76** |
 
 ---
+
 
 
 
