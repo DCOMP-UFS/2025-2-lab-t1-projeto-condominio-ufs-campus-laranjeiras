@@ -33,7 +33,8 @@ Planejamento focado no suporte a fluxos de trabalho de modelagem 3D (BIM), nuven
 * **Performance de Processamento:** Integração ao condomínio de laboratórios para execução de renderizações de alto desempenho em ambiente de nuvem, reduzindo a carga do hardware local.
 * **Resiliência e Backup:** Estratégia de redundância para o acervo digital de projetos como EMAU TRAPICHE e Cidade MIL através da infraestrutura central da UFS.
 * **Conectividade:** Otimização de banda para tráfego de arquivos pesados de escaneamento a laser e fotogrametria.
-* **Link AWS:[http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8084/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8084/)** 
+* **Link AWS:[http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8084/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:80
+* /)** 
 
 ## 4. Arqueologia e Bioarqueologia: Patrimônio Cultural e Ambiental
 **Descrição Técnica:**
@@ -66,6 +67,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
 
 
 
