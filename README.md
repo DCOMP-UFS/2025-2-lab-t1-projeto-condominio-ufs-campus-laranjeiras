@@ -42,7 +42,7 @@ Modernização voltada ao suporte de dados massivos de escavações e análises 
 * **Isolamento de Dados:** Utilização de VLANs para garantir a confidencialidade e integridade do banco de dados de patrimônio histórico sensível.
 * **Monitoramento IoT:** Infraestrutura preparada para sensores de monitoramento ambiental remoto (temperatura e umidade) aplicados à conservação da reserva técnica.
 * **Arquitetura:** Rede projetada para suportar alta demanda de processamento de imagens e registros catalográficos digitais.
-* **Link AWS: [http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8081/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8081/)** 
+* **Link AWS: [http://52.200.222.233/](http://52.200.222.233/)** 
 
 ## 5. Gemps - Memória e Patrimônio Sergipano
 **Descrição Técnica:**
@@ -66,6 +66,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
 
 
 
