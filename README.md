@@ -24,7 +24,7 @@ Infraestrutura de alta performance desenhada para manipulação de grandes volum
 * **Gerenciamento:** Roteador VPN ER7212PC atuando como controladora central e gateway, permitindo acesso remoto seguro aos pesquisadores.
 * **Continuidade Operacional:** Proteção elétrica via No-break Senoidal Puro de 2200VA, garantindo a integridade de equipamentos com fontes de PFC ativo.
 * **Investimento Estimado:** R$ 19.500,00.
-* **Link AWS:[100.53.139.17)** 
+* **Link AWS: [http://100.53.139.17)** 
 
 ## 3. Tecnologias em Arquitetura e Urbanismo
 **Descrição Técnica:**
@@ -67,6 +67,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
 
 
 
