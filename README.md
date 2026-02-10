@@ -53,7 +53,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 * **Segurança de Borda:** Gateway VPN Multi-Gigabit ER7412-M2 para estabelecimento de túneis criptografados e proteção de banco de dados.
 * **Conectividade Sem Fio:** 8 Access Points EAP265 HD estrategicamente distribuídos para cobertura estável de alta densidade.
 * **Investimento Estimado:** R$ 35.844,86.
-* **Link AWS: [http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8082/](http://nlb-instance-e52025b731f159c2.elb.us-east-1.amazonaws.com:8082/)** 
+* **Link AWS: [http://3.234.144.119/]** 
 
 ---
 
@@ -67,6 +67,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
 
 
 
