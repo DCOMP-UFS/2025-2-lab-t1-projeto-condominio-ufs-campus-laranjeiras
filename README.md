@@ -14,7 +14,7 @@ Implementação de rede resiliente focada em geoprocessamento (GIS) e catalogaç
 * **Integração e Nuvem:** Migração do processamento pesado e do portal Urbes Invisibilia para infraestrutura AWS (Docker). A conectividade inter-campus é assegurada por um túnel VPN Site-to-Site.
 * **Infraestrutura Local:** Armazenamento NAS para alta disponibilidade de arquivos cartográficos e Access Points Wi-Fi 6 para mobilidade no acervo.
 * **Investimento Estimado:** R$ 50.000,00.
-* **Link AWS: [http://ec2-54-243-16-146.compute-1.amazonaws.com/](http://ec2-54-243-16-146.compute-1.amazonaws.com/)  54.243.16.146 ** 
+* **Link AWS: [http://54.243.16.146](http://54.243.16.146/)** 
 
 ## 2. CEPUR - Planejamento e Práticas Urbanas e Regionais
 **Descrição Técnica:**
@@ -66,6 +66,7 @@ Infraestrutura de alto padrão corporativo baseada na linha TP-Link Omada, dimen
 | **Proteção Elétrica** | No-breaks Senoidais com Gerenciamento |
 
 ---
+
 
 
 
